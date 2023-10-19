@@ -1,5 +1,5 @@
 {
-  "homepage": "https://MahendraPachipala.github.io/color_picker",
+  "homepage": "https://udaysaimanoj123.github.io/color_picker",
   "name": "color_picker",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
